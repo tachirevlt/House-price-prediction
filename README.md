@@ -7,7 +7,7 @@ Tổng quan:
 ## Anyscale
 Tổng quan: Ở giai đoạn này, ta sẽ thực hiện:
 - Bằng cách xem xét các chuỗi trong phần Mô tả, ta nhận thấy ở đây sẽ có thông tin của các thuộc tính như: PN, WC, Diện tích, Giá
-và một số Keyword mới mà ta có thể khai thác làm thuộc tính như: Tầng (Floor), Sổ sách/Sổ hồng/Pháp lý.
+và một số Keyword mới mà ta có thể khai thác làm thuộc tính như: Tầng (Floor), Sổ sách/Sổ hồng/Pháp lý. 
 - Ta sẽ tìm cách để Fill các giá trị NULL trong các thuộc tính như: PN, WC, và tạo các thuộc tính mới bằng thông tin xử lý ở phần mô tả bằng Anyscale.
 
 ## Data Preprocessing and Feature Engineering

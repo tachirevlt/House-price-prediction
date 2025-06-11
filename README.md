@@ -1,6 +1,6 @@
 # Dự đoán giá nhà ở thành phố Hồ Chí Minh sử dụng các mô hình máy học bằng dữ liệu thu thập từ web
 ## Data Collection  
-Tổng quan: 
+Tổng quan:   
 - Ở bước này, ta sẽ sử dụng Request để mở đường dẫn đến Web chứa Data cần thu thập, Beautiful Soup để truy xuất Html của trang Web, lưu vào các List 
 được khởi tạo và sau khi hoàn thành, lưu lại dưới dạng một File CSV để sử dụng về sau.
 

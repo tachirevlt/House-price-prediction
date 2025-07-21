@@ -42,3 +42,7 @@ Tổng quan: Ở giai đoạn này, ta sẽ:
 - So sánh các chỉ số của các mô hình.
 ## Một vài thông tin thêm:
 - Biểu đồ Heatmap thể hiện phân bố số lượng nhà được đăng bán tại khu vực Tp HCM.
+
+## Tác giả
+
+[![GitHub](https://img.shields.io/badge/GitHub-tachirevlt-blue?logo=github)](https://github.com/tachirevlt)
